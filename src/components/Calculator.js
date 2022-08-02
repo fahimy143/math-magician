@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-/*eslint-disable */
+// eslint-disable-next-line react/prefer-stateless-function
 class Calculator extends Component {
   render() {
     return (
@@ -7,9 +7,9 @@ class Calculator extends Component {
         <div className="wrapper">
           <div className="screen"> 0</div>
           <div className="btn light-gray">AC</div>
-          <div className="btn light-gray">%</div>
           <div className="btn light-gray">+/-</div>
-          <div className="btn orange">/</div>
+          <div className="btn light-gray">%</div>
+          <div className="btn orange">÷</div>
           <div className="btn">7</div>
           <div className="btn">8</div>
           <div className="btn">9</div>
