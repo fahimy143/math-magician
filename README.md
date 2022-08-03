@@ -34,11 +34,11 @@ To get a local copy up and running follow these simple example steps.
 - GitHub: [@fahimy143](https://github.com/fahimy143)
 - LinkedIn: [Mustafa Fahimy](https://www.linkedin.com/in/mustafa-fahimy-307566236/)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
+Feel free to check the [issues page](https://github.com/fahimy143/math-magician/issues).
 
 ## Show your support
 
