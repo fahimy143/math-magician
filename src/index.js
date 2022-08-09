@@ -20,23 +20,5 @@ root.render(
       <Route path="/quote" element={<Quote />} />
     </Routes>
   </Router>,
-  /* <Router>
-    <div>
-      <Navbar />
-      <div className="content">
-        <Switch>
-          <Route exact path="/">
-            <Home />
-          </Route>
-          <Route path="/app">
-            <App />
-          </Route>
-          <Route path="/quote">
-            <Quote />
-          </Route>
-        </Switch>
-      </div>
-    </div>
-  </Router>, */
   document.getElementById('root'),
 );
