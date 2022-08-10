@@ -27,17 +27,12 @@ To get a local copy up and running follow these simple example steps.
 
 [Math Magicians live demo]()
 
-## Authors
+## Author
 
 👤 **Mustafa Fahimy**
 
 - GitHub: [@fahimy143](https://github.com/fahimy143)
 - LinkedIn: [Mustafa Fahimy](https://www.linkedin.com/in/mustafa-fahimy-307566236/)
-
-👤 **Karam Fouad**
-
-- GitHub: [@karam Fouad]()
-- LinkedIn: [Karam Fouad]()
 
 ## 🤝 Contributing
 
