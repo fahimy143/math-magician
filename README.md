@@ -25,7 +25,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[Math Magicians live demo]()
+[Math Magicians live demo](https://tiny-meringue-b34903.netlify.app/)
 
 ## Author
 
